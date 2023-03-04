@@ -56,7 +56,7 @@ steps:
       template: |
         {
           "images": [
-            "registry.megpoid.dev/codestation/swarm-updater"
+            "registry.megpoid.dev/codestation/docker-events-exporter"
           ]
         }
 
